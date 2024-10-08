@@ -12,8 +12,8 @@ import Footer from "@/components/Footer";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Sick E-commerce Website",
-  description: "Sick E-commerce Website created with NextJS",
+  title: "Shopping Web App",
+  description: "E-commerce Web App created with NextJS",
 };
 
 export default function RootLayout({ children }) {
